@@ -1,15 +1,42 @@
 # VEL-TECH-SUMMER-INTERNSHIP
 
-This repository contains daily internship tasks and machine learning projects.
+This repository contains my internship assignments and Machine Learning projects completed during the VEL TECH Summer Internship.
 
-## Days Completed
-- Day 1
-- Day 2
-- Day 3
-- Day 4
-- Day 5
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Flask
 
-### Day 5 Project
-Student Grade Prediction using Machine Learning.
+## Projects Completed
+### Day 1
+Python Basics
 
-GitHub Repository maintained by S. Akshara.
+### Day 2
+Data Structures and Python Programs
+
+### Day 3
+Data Analysis and Visualization
+
+### Day 4
+Student Grade Prediction Project Preparation
+
+### Day 5
+Student Grade Prediction using Machine Learning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Linear Regression
+- Ridge Regression
+- RMSE Comparison
+- Model Saving using Pickle (.pkl)
+- Prediction for 3 Student Cases
+- GitHub Project Documentation
+
+## GitHub Profile
+GitHub: sakshara2007
+
+## Author
+S. Akshara
